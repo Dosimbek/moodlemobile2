@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <widget id="com.moodle.moodleneu" version="2.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>NEU Moodle Mobile</name>
   <description>Мобильное приложение Moodle E-NEU</description>
 =======
+=======
+>>>>>>> parent of 3d7b00f... Update config.xml
 <widget id="com.moodle.moodlemobile" version="2.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Moodle Mobile</name>
   <description>Мобильное приложение Moodle E-NEU app</description>
